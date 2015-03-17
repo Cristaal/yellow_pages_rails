@@ -1,5 +1,6 @@
 == README
-
+Yellow Pages
+ MIT License 2015 Crystal Contreras-Grossman
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
