@@ -4,6 +4,9 @@
 <ul>
   <% @section.businesses.each do |business| %>
     <li><%= business.name %></li>
+      <ul><%= business.address %></ul>
+      <ul><%= business.phone %></ul>
+      <ul><%= business.website %></ul>
   <% end %>
 </ul>
 
